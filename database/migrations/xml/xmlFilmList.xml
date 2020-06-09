@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MOVIES>
+
+	<MOVIE>
+		<Cell><TITLE>The Witcher</TITLE></Cell>
+		<Cell><GENRE>Fantasy</GENRE></Cell>
+    <Cell><COVER>cover</COVER></Cell>
+    <Cell><DESCRIPTION>Description</DESCRIPTION></Cell>
+		<Cell><PRODCOUNTRY>Poland</PRODCOUNTRY></Cell>
+	</MOVIE>
+</MOVIES>
